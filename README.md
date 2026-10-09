@@ -67,7 +67,7 @@ Hiện tại:
 | 🌩️ Né Bão            | `dodge`        | `LIVE`        |
 | ♟️ Cờ Tướng Nhập Vai  | `xiangqi-role` | `LIVE`        |
 | 🔵 Thả Cờ 4          | `connect-four` | `DEVELOPMENT` |
-| 🚢 Bắn Tàu           | `battleship`   | `DEVELOPMENT` |
+| 🚢 Bắn Tàu           | `battleship`   | `LIVE`        |
 | 🎨 Vẽ Đoán           | `draw-guess`   | `DEVELOPMENT` |
 
 ## Cập nhật

@@ -167,9 +167,9 @@
       "slug": "battleship",
       "name": "Bắn Tàu",
       "emoji": "🚢",
-      "status": "DEVELOPMENT",
+      "status": "LIVE",
       "tagline": "Giấu hạm đội, đoán toạ độ",
-      "description": "Bày tàu bí mật rồi thay phiên bắn vào hải đồ của đối phương.",
+      "description": "Mỗi người bí mật bày 5 tàu (5–4–3–3–2 ô) trên hải đồ 10×10, rồi thay phiên gọi toạ độ để bắn vào hải đồ đối phương — trúng, trượt hay chìm tàu đều được báo ngay. Ai đánh chìm toàn bộ hạm đội đối phương trước thì thắng. Sơ đồ được niêm phong bằng mã băm và công bố khi hết ván để đối chiếu, chống gian lận.",
       "seats": {
         "min": 2,
         "max": 2
