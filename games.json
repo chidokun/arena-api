@@ -185,9 +185,9 @@
       "slug": "draw-guess",
       "name": "Vẽ Đoán",
       "emoji": "🎨",
-      "status": "DEVELOPMENT",
+      "status": "LIVE",
       "tagline": "Một người vẽ, cả phòng đoán",
-      "description": "Lần lượt vẽ từ khoá bí mật, người khác gõ đáp án nhanh nhất để ghi điểm.",
+      "description": "Lần lượt từng người vẽ: chọn 1 trong 3 từ bí mật (dễ, vừa, khó) rồi vẽ — cả phòng thấy từng nét ngay khi đang vẽ. Người khác gõ đáp án, không cần dấu: đoán càng sớm càng nhiều điểm, người vẽ cũng được điểm theo số người đoán ra, chữ cái gợi ý mở dần khi gần hết giờ. Sau 1–4 vòng, ai nhiều điểm nhất thắng.",
       "seats": {
         "min": 2,
         "max": 8

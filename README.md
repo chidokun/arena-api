@@ -68,7 +68,7 @@ Hiện tại:
 | ♟️ Cờ Tướng Nhập Vai  | `xiangqi-role` | `LIVE`        |
 | 🔵 Thả Cờ 4          | `connect-four` | `DEVELOPMENT` |
 | 🚢 Bắn Tàu           | `battleship`   | `LIVE`        |
-| 🎨 Vẽ Đoán           | `draw-guess`   | `DEVELOPMENT` |
+| 🎨 Vẽ Đoán           | `draw-guess`   | `LIVE`        |
 
 ## Cập nhật
 
