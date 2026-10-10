@@ -198,6 +198,24 @@
         "default": 10
       },
       "hue": "grape"
+    },
+    {
+      "slug": "oanquan",
+      "name": "Ô Ăn Quan",
+      "emoji": "🪨",
+      "status": "LIVE",
+      "tagline": "Bốc quân rải ô, cách một ô trống là ăn",
+      "description": "Trò dân gian cho 2 người: mỗi bên 5 ô dân (5 quân mỗi ô), hai đầu bàn là hai ô quan. Tới lượt, bốc hết quân một ô bên mình rải mỗi ô một quân theo chiều tuỳ chọn — rải hết mà ô kế có quân thì bốc rải tiếp, cách một ô trống thì ăn ô sau nó, ăn liền mạch được. Hết quan thì thu quân, dân 1 điểm, quan 10 điểm — ai nhiều điểm hơn thắng. Chủ phòng chọn có cấm ăn quan non hay không.",
+      "seats": {
+        "min": 2,
+        "max": 2
+      },
+      "capacity": {
+        "min": 2,
+        "max": 16,
+        "default": 8
+      },
+      "hue": "sun"
     }
   ]
 }

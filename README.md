@@ -69,6 +69,7 @@ Hiện tại:
 | 🔵 Thả Cờ 4          | `connect-four` | `DEVELOPMENT` |
 | 🚢 Bắn Tàu           | `battleship`   | `LIVE`        |
 | 🎨 Vẽ Đoán           | `draw-guess`   | `LIVE`        |
+| 🪨 Ô Ăn Quan         | `oanquan` | `LIVE`     |
 
 ## Cập nhật
 
