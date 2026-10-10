@@ -131,7 +131,7 @@
       "slug": "xiangqi-role",
       "name": "Cờ Tướng Nhập Vai",
       "emoji": "♟️",
-      "status": "MAINTENANCE",
+      "status": "LIVE",
       "tagline": "Mỗi người một role — claim lượt, chiếu bí cùng phe",
       "description": "Mỗi phe 5 role: Tướng·Sĩ·Tượng (một người), Xe, Pháo, Mã, Tốt — tối đa 10 người. Ai claim trước được đi; hết giờ thì cung (Tướng·Sĩ·Tượng) nhận token. Luật cờ tướng giữ nguyên; role trống do bot. Chat riêng theo phe.",
       "seats": {
