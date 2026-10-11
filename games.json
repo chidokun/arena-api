@@ -228,6 +228,25 @@
         "default": 8
       },
       "hue": "sun"
+    },
+    {
+      "slug": "chess",
+      "name": "Cờ Vua",
+      "emoji": "♟️",
+      "status": "DEVELOPMENT",
+      "category": "brain",
+      "tagline": "Chiếu hết Vua đối phương — môn thể thao trí tuệ của cả thế giới",
+      "description": "Hai người cầm quân Trắng và Đen trên bàn 8×8 với Vua, Hậu, Xe, Tượng, Mã và Tốt; Trắng đi trước, đổi bên mỗi ván. Đủ luật nhập thành, bắt tốt qua đường, phong cấp. Chiếu hết là thắng; hết nước, lặp thế cờ ba lần, luật 50 nước hay không đủ quân là hoà. Có biên bản nước đi, xin hoà và xin thua.",
+      "seats": {
+        "min": 2,
+        "max": 2
+      },
+      "capacity": {
+        "min": 2,
+        "max": 16,
+        "default": 8
+      },
+      "hue": "grape"
     }
   ]
 }
