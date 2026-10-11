@@ -270,11 +270,11 @@
     {
       "slug": "co-chep",
       "name": "Cò Chẹp Tuổi Thơ",
-      "emoji": "🪨",
-      "status": "DEVELOPMENT",
+      "emoji": "🤾🏻‍♂️",
+      "status": "LIVE",
       "category": "folk",
-      "tagline": "Chọi đá, nhảy cò chẹp, chọi qua lưng chiếm nhà",
-      "description": "Trò dân gian cho 1–5 người: kéo – buông như bắn ná để chọi đá lần lượt vào ô 1 đến 8, trúng thì tự nhảy cò chẹp nhặt đá về. Xong ô 8 thì chọi lên Trời, nhảy chẹp quanh đá rồi chọi qua lưng không được nhìn — rơi gọn vào ô trống là chiếm làm nhà. Chọi trúng nhà mình là cháy nhà! Ai nhiều nhà nhất thắng.",
+      "tagline": "Cò chẹp - Chiếm nhà và giành chiến thắng",
+      "description": "Trò dân gian cho 1–5 người: Chọi đá lần lượt vào ô 1 đến 8, trúng thì tự nhảy cò chẹp nhặt đá về. Xong ô 8 thì chọi lên Trời, nhảy chẹp quanh đá rồi chọi qua lưng không được nhìn — rơi gọn vào ô trống là chiếm làm nhà. Chọi trúng nhà mình là cháy nhà! Ai nhiều nhà nhất thắng.",
       "seats": {
         "min": 1,
         "max": 5
