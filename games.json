@@ -247,6 +247,25 @@
         "default": 8
       },
       "hue": "grape"
+    },
+    {
+      "slug": "dots-boxes",
+      "name": "Chấm Nối Ô",
+      "emoji": "🔲",
+      "status": "DEVELOPMENT",
+      "category": "brain",
+      "tagline": "Kẻ cạnh khép ô, ô nào khép là của mình",
+      "description": "Hai người lần lượt kẻ một cạnh nối hai chấm kề nhau trên lưới chấm. Ai kẻ cạnh thứ tư khép kín một ô vuông thì chiếm ô đó và được kẻ tiếp. Hết ô thì ai chiếm nhiều ô hơn thắng. Chủ phòng chọn cỡ bàn 3×3, 5×5 hoặc 7×7 ô.",
+      "seats": {
+        "min": 2,
+        "max": 2
+      },
+      "capacity": {
+        "min": 2,
+        "max": 16,
+        "default": 8
+      },
+      "hue": "coral"
     }
   ]
 }
