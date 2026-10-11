@@ -5,6 +5,7 @@
       "name": "Cờ Caro",
       "emoji": "⭕",
       "status": "LIVE",
+      "category": "brain",
       "tagline": "Năm quân thẳng hàng là thắng",
       "description": "Hai người lần lượt đặt X và O trên bàn 15×15. Ai xếp được 5 quân liên tiếp theo hàng ngang, dọc hoặc chéo trước thì thắng. Chủ phòng chọn có áp dụng luật chặn hai đầu hay không.",
       "seats": {
@@ -23,6 +24,7 @@
       "name": "Lô Tô",
       "emoji": "🧧",
       "status": "LIVE",
+      "category": "folk",
       "tagline": "Kêu số rộn ràng, đủ năm số một hàng là Kinh!",
       "description": "Bộ 10 màu, mỗi màu 2 tờ bù trừ nhau đủ 90 số. Mỗi người chọn 1–2 tờ; chủ phòng tự động kêu số ngẫu nhiên từ 1 đến 90, tờ của bạn tự đánh dấu. Bốn số cùng hàng thì Hò — đủ năm số một hàng là Kinh!",
       "seats": {
@@ -41,6 +43,7 @@
       "name": "Ma Sói",
       "emoji": "🐺",
       "status": "LIVE",
+      "category": "brain",
       "tagline": "Đêm Sói cắn, ngày cả làng treo cổ",
       "description": "Người tạo phòng là Quản trò — mặc định chơi cùng, hoặc chỉ xem và điều khiển; máy của họ tự chia vai bí mật: Ma Sói, Dân Làng, Tiên Tri, Bảo Vệ, Phù Thủy, Thợ Săn, Cupid, Bán Sói, Minion. Đêm xuống quản trò gọi lần lượt từng vai: Sói chọn người để cắn, các vai đặc biệt dùng năng lực; ngày lên cả làng tranh luận và bỏ phiếu treo cổ. Dân thắng khi hết Sói — Sói thắng khi đông bằng phần còn lại.",
       "seats": {
@@ -60,6 +63,7 @@
       "name": "Truy tìm Gián Điệp",
       "emoji": "🕵️",
       "status": "LIVE",
+      "category": "chill",
       "tagline": "Cùng một chủ đề, khác một từ khoá — ai là gián điệp?",
       "description": "Máy chủ phòng bốc một cặp từ na ná nhau trong bộ 1000 cặp và phát bí mật: phe Dân nhận từ chung, phe Gián Điệp nhận từ kia, phe Trắng không có từ nào. Lật bài xem từ, lần lượt từng người mô tả từ khoá theo thứ tự, thảo luận rồi ai cũng có thể gọi biểu quyết loại người đáng ngờ nhất — người bị loại lộ phe, phe Trắng bị loại còn được đoán từ khoá để lật ngược thế cờ.",
       "seats": {
@@ -78,6 +82,7 @@
       "name": "Sudoku Tranh Đấu",
       "emoji": "🔢",
       "status": "LIVE",
+      "category": "brain",
       "tagline": "Cùng một đề — ai nhanh tay, nhanh trí hơn?",
       "description": "Cả phòng nhận cùng một đề Sudoku 9×9 mức Dễ, Vừa hoặc Khó. Cùng giải đề: mọi người điền chung một bàn, điền đúng một ô trước người khác được 1 điểm, sai bị trừ — nhiều điểm nhất thắng. Đối kháng: mỗi người tự giải đề của mình, ô người khác đã giải được tô màu người nhanh nhất — ai giải xong trước thắng, người còn lại giải tiếp để xếp hạng.",
       "seats": {
@@ -96,6 +101,7 @@
       "name": "Cờ Tướng",
       "emoji": "🀄",
       "status": "LIVE",
+      "category": "brain",
       "tagline": "Chiếu tướng, bắt Tướng — trí tuệ ngàn năm",
       "description": "Hai người cầm quân Đỏ và Đen trên bàn 9×10 với Xe, Pháo, Mã, Tượng, Sĩ, Tướng và Tốt; Đỏ đi trước, đổi bên mỗi ván. Chiếu bí hoặc khiến đối phương hết nước đi là thắng. Có biên bản nước đi kiểu Việt Nam, luật chiếu dai, xin hoà và xin thua.",
       "seats": {
@@ -114,6 +120,7 @@
       "name": "Né Bão",
       "emoji": "🌩️",
       "status": "MAINTENANCE",
+      "category": "chill",
       "tagline": "Chạy trái→phải — né hố, gai và đạn truy cản",
       "description": "Người chạy tự chạy liên tục từ trái sang phải, nhảy để né hố và gai trên đường. Người còn lại nấp bốn cạnh, trượt đổi góc và bắn đạn truy cản. Trúng đạn thì người bắn lên làm runner; vướng chướng ngại thì người kế tiếp. Ai sống lâu hơn thắng — chủ phòng dừng để chốt bảng xếp hạng.",
       "seats": {
@@ -132,6 +139,7 @@
       "name": "Cờ Tướng Nhập Vai",
       "emoji": "🦸🏻‍♀️",
       "status": "MAINTENANCE",
+      "category": "brain",
       "tagline": "Mỗi người một role — claim lượt, chiếu bí cùng phe",
       "description": "Mỗi phe 5 role: Tướng·Sĩ·Tượng (một người), Xe, Pháo, Mã, Tốt — tối đa 10 người. Ai claim trước được đi; hết giờ thì cung (Tướng·Sĩ·Tượng) nhận token. Luật cờ tướng giữ nguyên; role trống do bot. Chat riêng theo phe.",
       "seats": {
@@ -150,6 +158,7 @@
       "name": "Thả Cờ 4",
       "emoji": "🔵",
       "status": "LIVE",
+      "category": "chill",
       "tagline": "Thả quân, nối bốn, hạ đối thủ",
       "description": "Hai người lần lượt thả quân Đỏ và Vàng vào bàn 7 cột × 6 hàng — quân rơi xuống ô trống thấp nhất của cột. Ai nối được 4 quân liên tiếp theo hàng ngang, dọc hoặc chéo trước thì thắng; đầy bàn là hoà.",
       "seats": {
@@ -168,6 +177,7 @@
       "name": "Bắn Tàu",
       "emoji": "🚢",
       "status": "LIVE",
+      "category": "brain",
       "tagline": "Giấu hạm đội, đoán toạ độ",
       "description": "Mỗi người bí mật bày 5 tàu (5–4–3–3–2 ô) trên hải đồ 10×10, rồi thay phiên gọi toạ độ để bắn vào hải đồ đối phương — trúng, trượt hay chìm tàu đều được báo ngay. Ai đánh chìm toàn bộ hạm đội đối phương trước thì thắng. Sơ đồ được niêm phong bằng mã băm và công bố khi hết ván để đối chiếu, chống gian lận.",
       "seats": {
@@ -186,6 +196,7 @@
       "name": "Vẽ Đoán",
       "emoji": "🎨",
       "status": "LIVE",
+      "category": "chill",
       "tagline": "Một người vẽ, cả phòng đoán",
       "description": "Lần lượt từng người vẽ: chọn 1 trong 3 từ bí mật (dễ, vừa, khó) rồi vẽ — cả phòng thấy từng nét ngay khi đang vẽ. Người khác gõ đáp án, không cần dấu: đoán càng sớm càng nhiều điểm, người vẽ cũng được điểm theo số người đoán ra, chữ cái gợi ý mở dần khi gần hết giờ. Sau 1–4 vòng, ai nhiều điểm nhất thắng.",
       "seats": {
@@ -204,6 +215,7 @@
       "name": "Ô Ăn Quan",
       "emoji": "🎎",
       "status": "LIVE",
+      "category": "folk",
       "tagline": "Bốc quân rải ô, cách một ô trống là ăn",
       "description": "Trò dân gian cho 2 người: mỗi bên 5 ô dân (5 quân mỗi ô), hai đầu bàn là hai ô quan. Tới lượt, bốc hết quân một ô bên mình rải mỗi ô một quân theo chiều tuỳ chọn — rải hết mà ô kế có quân thì bốc rải tiếp, cách một ô trống thì ăn ô sau nó, ăn liền mạch được. Hết quan thì thu quân, dân 1 điểm, quan 10 điểm — ai nhiều điểm hơn thắng. Chủ phòng chọn có cấm ăn quan non hay không.",
       "seats": {
