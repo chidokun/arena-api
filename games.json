@@ -116,25 +116,6 @@
       "hue": "coral"
     },
     {
-      "slug": "dodge",
-      "name": "Né Bão",
-      "emoji": "🌩️",
-      "status": "MAINTENANCE",
-      "category": "chill",
-      "tagline": "Chạy trái→phải — né hố, gai và đạn truy cản",
-      "description": "Người chạy tự chạy liên tục từ trái sang phải, nhảy để né hố và gai trên đường. Người còn lại nấp bốn cạnh, trượt đổi góc và bắn đạn truy cản. Trúng đạn thì người bắn lên làm runner; vướng chướng ngại thì người kế tiếp. Ai sống lâu hơn thắng — chủ phòng dừng để chốt bảng xếp hạng.",
-      "seats": {
-        "min": 2,
-        "max": 8
-      },
-      "capacity": {
-        "min": 0,
-        "max": 0,
-        "default": 0
-      },
-      "hue": "coral"
-    },
-    {
       "slug": "xiangqi-role",
       "name": "Cờ Tướng Nhập Vai",
       "emoji": "🦸🏻‍♀️",
