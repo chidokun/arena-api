@@ -289,8 +289,8 @@
     {
       "slug": "kawaii",
       "name": "Nối Thú Kawaii",
-      "emoji": "🐾",
-      "status": "DEVELOPMENT",
+      "emoji": "🙈🙉",
+      "status": "LIVE",
       "category": "chill",
       "tagline": "Nối cặp thú cưng — dọn sạch bàn, nhiều điểm nhất thắng",
       "description": "Nối thú kiểu Pikachu, không giới hạn người chơi — một mình cũng chơi được. Cả phòng chung một bàn đầy ô thú cưng, mỗi loại 4 ô: bấm hai ô cùng hình nối được bằng đường gấp khúc tối đa 2 lần (đi vòng ra viền được) thì cả hai biến mất. Ai nối trước được 10 điểm, xin gợi ý bị trừ 5. Hết cặp nối được thì bàn tự xáo. Không tính giờ: dọn sạch bàn là hết ván, nhiều điểm nhất thắng.",
@@ -303,7 +303,7 @@
         "max": 0,
         "default": 0
       },
-      "hue": "sun"
+      "hue": "coral"
     }
   ]
 }
