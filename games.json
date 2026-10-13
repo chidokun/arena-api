@@ -266,6 +266,25 @@
         "default": 10
       },
       "hue": "lime"
+    },
+    {
+      "slug": "mine-control",
+      "name": "Dò Mìn Chiến Thuật",
+      "emoji": "💣",
+      "status": "DEVELOPMENT",
+      "category": "brain",
+      "tagline": "Mở đất, né mìn, giành lãnh thổ",
+      "description": "Dò mìn đối kháng cho 2–4 người: mỗi người một căn cứ ở góc bản đồ, lần lượt mở ô sát lãnh thổ để chiếm đất và ghi điểm, dùng năng lượng cho Radar, Khiên, Pháo đài, Cướp Đất. Giẫm mìn mất mạng — hết 3 mạng là bị loại. Trụ lại cuối cùng, hoặc nhiều điểm nhất khi mở hết ô an toàn / bế tắc, là thắng.",
+      "seats": {
+        "min": 2,
+        "max": 4
+      },
+      "capacity": {
+        "min": 4,
+        "max": 16,
+        "default": 8
+      },
+      "hue": "sky"
     }
   ]
 }
