@@ -312,7 +312,7 @@
       "status": "LIVE",
       "category": "chill",
       "tagline": "Lật ô tìm cặp, mở dần tranh ẩn — đoán trúng là thắng",
-      "description": "Trúc Xanh như trên truyền hình, không giới hạn người chơi — một mình cũng chơi được. Các ô đánh số úp lên một bức tranh ẩn bốc từ bộ hơn 100 tranh, mặt dưới là hình emoji, mỗi hình hai ô. Lần lượt lật hai ô: trùng hình thì lộ một mảng tranh và được lật tiếp, trật thì sang người sau. Ai cũng đoán được từ khoá của tranh bất cứ lúc nào, không cần dấu: đúng là thắng, trật thì thôi.",
+      "description": "Trúc Xanh như trên truyền hình, không giới hạn người chơi — một mình cũng chơi được. Các ô đánh số úp lên một bức tranh ẩn bốc theo mức chủ phòng chọn — Dễ: hơn 100 danh lam, món ăn, con vật, đồ vật; Khó: 100 khái niệm trừu tượng — mặt dưới là hình emoji, mỗi hình hai ô. Lần lượt lật hai ô: trùng hình thì lộ một mảng tranh và được lật tiếp, trật thì sang người sau. Ai cũng đoán được từ khoá của tranh bất cứ lúc nào, không cần dấu: đúng là thắng, trật thì thôi.",
       "seats": {
         "min": 1,
         "max": 0
