@@ -346,13 +346,20 @@
     {
       "slug": "reversi",
       "name": "Cờ Lật",
-      "emoji": "⚫",
-      "status": "DEVELOPMENT",
-      "category": "brain",
+      "emoji": "⚪️",
+      "status": "LIVE",
+      "category": "chill",
       "tagline": "Kẹp quân đối thủ, lật cả dãy sang màu mình",
       "description": "Cờ lật (Reversi / Othello) cho 2 người trên bàn 8×8. Lần lượt đặt quân sao cho kẹp được một dãy quân đối thủ theo hàng ngang, dọc hoặc chéo — cả dãy bị lật sang màu mình. Hết nước thì bị bỏ lượt; cả hai cùng hết nước thì ai nhiều quân hơn thắng.",
-      "seats": { "min": 2, "max": 2 },
-      "capacity": { "min": 2, "max": 16, "default": 8 },
+      "seats": {
+        "min": 2,
+        "max": 2
+      },
+      "capacity": {
+        "min": 2,
+        "max": 16,
+        "default": 8
+      },
       "hue": "lime"
     }
   ]
