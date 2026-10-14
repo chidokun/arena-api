@@ -329,11 +329,18 @@
       "name": "Dò Mìn Cổ Điển",
       "emoji": "💣",
       "status": "LIVE",
-      "category": "brain",
+      "category": "chill",
       "tagline": "Mở ô an toàn ghi điểm — đạp mìn là bị loại",
       "description": "Dò mìn cổ điển cho nhiều người, một mình cũng chơi được. Cả phòng chung một bàn, không theo lượt: mở ô an toàn được 1 điểm cho mỗi ô lộ ra, đạp mìn là bị loại. Mở hết bàn thì ai còn trụ nhiều điểm nhất thắng — còn một người thì phải tự mở hết mới thắng.",
-      "seats": { "min": 1, "max": 0 },
-      "capacity": { "min": 0, "max": 0, "default": 0 },
+      "seats": {
+        "min": 1,
+        "max": 0
+      },
+      "capacity": {
+        "min": 0,
+        "max": 0,
+        "default": 0
+      },
       "hue": "sky"
     }
   ]
