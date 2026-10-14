@@ -361,6 +361,25 @@
         "default": 8
       },
       "hue": "coral"
+    },
+    {
+      "slug": "co-cho",
+      "name": "Cờ Chó",
+      "emoji": "🐕",
+      "status": "DEVELOPMENT",
+      "category": "folk",
+      "tagline": "Hai nắp chai mỗi bên — chặn hết đường là thắng",
+      "description": "Cờ chó (cờ chặn) dân gian cho 2 người: bàn hình vuông kẻ hai đường chéo, cạnh bên trái có chó canh nên không đi được. Mỗi bên hai nắp chai, tâm để trống; lần lượt đi một quân theo đường kẻ sang điểm trống kề nó. Tới lượt mà không còn quân nào đi được là thua — thế cờ lặp lại 3 lần thì hoà.",
+      "seats": {
+        "min": 2,
+        "max": 2
+      },
+      "capacity": {
+        "min": 2,
+        "max": 16,
+        "default": 8
+      },
+      "hue": "sun"
     }
   ]
 }
