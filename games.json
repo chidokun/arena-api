@@ -385,7 +385,7 @@
       "slug": "system-design",
       "name": "Thiết Kế Hệ Thống",
       "emoji": "🏗️",
-      "status": "DEVELOPMENT",
+      "status": "LIVE",
       "category": "brain",
       "tagline": "Cùng một đề — hệ thống của ai chịu tải giỏi nhất?",
       "description": "Cả phòng nhận cùng một đề thiết kế hệ thống: luồng nghiệp vụ, traffic mục tiêu, budget và sự cố. Mỗi người tự đặt và nối Load Balancer, API Gateway, App Server, Cache, Database, Read Replica, Queue, Worker, CDN… rồi chốt. Khi mọi người đã chốt, load test giả lập tăng tải tới khi từng hệ thống gục — thiết kế đạt mục tiêu trong budget, chịu TPS cao nhất (bằng nhau thì rẻ hơn) thắng.",
