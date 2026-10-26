@@ -399,6 +399,25 @@
         "default": 0
       },
       "hue": "sky"
+    },
+    {
+      "slug": "tam-dau",
+      "name": "Tâm Đấu",
+      "emoji": "🪷",
+      "status": "LIVE",
+      "category": "chill",
+      "tagline": "Mở thẻ dữ kiện, nhận diện tâm — chỉ kết luận theo những gì đã thấy",
+      "description": "Trò chơi kiến thức Vi Diệu Pháp cho 1–4 người, 6 vòng mỗi ván với 300 đề ở ba mode Nhập môn, Ứng dụng, Chuyên sâu. Cả bàn đọc chung một tình huống, luân phiên mở 2 trong 4 thẻ dữ kiện, rồi ai nấy nhận diện trạng thái tâm kèm căn cứ và kiểm tra một nhận định. Chấm theo đúng thông tin đã mở — “Chưa đủ dữ kiện” cũng là đáp án — tối đa 5 điểm mỗi vòng, có bảng kiến thức tra cứu bất cứ lúc nào.",
+      "seats": {
+        "min": 1,
+        "max": 4
+      },
+      "capacity": {
+        "min": 0,
+        "max": 0,
+        "default": 0
+      },
+      "hue": "sun"
     }
   ]
 }
