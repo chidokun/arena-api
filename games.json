@@ -418,6 +418,25 @@
         "default": 0
       },
       "hue": "sun"
+    },
+    {
+      "slug": "typing-race",
+      "name": "Anh Hùng Bàn Phím",
+      "emoji": "🏎️",
+      "status": "LIVE",
+      "category": "chill",
+      "tagline": "Gõ càng nhanh, xe càng bốc — khả năng gõ chính là động cơ",
+      "description": "Đua xe bằng bàn phím cho 1–20 người: cả phòng nhận cùng một đoạn văn bản, gõ đúng thì xe tiến, gõ sai phải xoá lỗi rồi gõ lại. Đua theo số ký tự (ai gõ xong trước thắng) hoặc theo thời gian (hết giờ ai đi xa nhất thắng); văn bản tiếng Việt hoặc tiếng Anh ở ba mức Dễ, Trung bình, Khó, hay để chủ phòng tự nhập. Hỗ trợ bộ gõ Telex / VNI, tính WPM và độ chính xác.",
+      "seats": {
+        "min": 1,
+        "max": 20
+      },
+      "capacity": {
+        "min": 0,
+        "max": 0,
+        "default": 0
+      },
+      "hue": "coral"
     }
   ]
 }
